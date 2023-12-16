@@ -42,6 +42,6 @@
    
 8. Запускаем нужный пайплайн и кайфуем.
 9. Результаты
-   ![image](images/airflow.png)
-   ![image](images/mlflow.png)
+   ![image](images/airflow.jpg)
+   ![image](images/mlflow.jpg)
    
